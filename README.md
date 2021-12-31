@@ -1,5 +1,5 @@
 # foodGen
-Simple generic food generator in different programming languages.
+Simple generic lunch menu generator written in different programming languages.
 
 | Language  |  |
 | ------------- | ------------- |
